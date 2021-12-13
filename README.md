@@ -51,3 +51,12 @@ We are grateful for community involvement, bug reports, & feature requests. We d
 not wish to come off as anything but welcoming, however, we've
 made the decision to keep this project closed to contributions for 
 the long term viability of the project.
+
+Edited in this Project
+----------------------------------
+Online demo: [pages sites](https://dahoerl.github.io/drawio-metaeditor/src/main/webapp/index.html) will have the full editor functionality (sans the integrations).
+
+Added Plugin: metadata-cells
+----------------------------------
+The purpose of the addon is to enable additional json data to be saved, evaluated and edited onto the cells structure.
+
